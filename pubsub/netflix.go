@@ -1,8 +1,8 @@
 package main
 
 import (
+	"concurrency-pattern-go/pubsub/pubsub"
 	"fmt"
-	"pattern-golang/concurrency/pubsub/pubsub"
 	"time"
 )
 
