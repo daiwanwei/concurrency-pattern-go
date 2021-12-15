@@ -1,8 +1,8 @@
 package main
 
 import (
+	"concurrency-pattern-go/pool/workerpool"
 	"fmt"
-	"pattern-golang/concurrency/pool/workerpool"
 	"sync"
 	"time"
 )
