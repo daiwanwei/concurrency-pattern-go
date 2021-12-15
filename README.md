@@ -7,11 +7,11 @@
 ## 專案描述
 
 ### concurrency pattern
-1. barrier
-2. future
-3. pipeline
-4. worker pool
-5. publish/subscribe
+- [x] barrier
+- [x] future
+- [x] pipeline
+- [x] worker pool
+- [x] publish/subscribe
 
 ## 執行專案
 
